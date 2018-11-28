@@ -42,3 +42,10 @@ The course is divided in 10 weekly classes, with the following contents and exer
          * **[Introduction to Pandas](https://github.com/samuel-sanches-BR/DataScience-UCSanDiego-edX/blob/exer-PythDS/Introduction%20to%20Pandas.ipynb)**
              [(Data set used: MovieLens, large ~190mb)](https://grouplens.org/datasets/movielens/)
         
+* #### Week 5:
+  * **Data Visualization**
+     * .ipynb
+         * **[Data set used: World Development Indicators, large ~385mb](https://www.kaggle.com/worldbank/world-development-indicators)**
+         * **[Matplotlib](https://github.com/samuel-sanches-BR/DataScience-UCSanDiego-edX/blob/exer-PythDS/05a_Matplotlib_Notebook.ipynb)**
+         * **[Exploring Indicator's Across Countries](https://github.com/samuel-sanches-BR/DataScience-UCSanDiego-edX/blob/exer-PythDS/05b_Exploring%20Indicator_s%20Across%20Countries.ipynb)**
+         * **[Folium](https://github.com/samuel-sanches-BR/DataScience-UCSanDiego-edX/blob/exer-PythDS/05c_Folium_Notebook.ipynb)**
