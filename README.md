@@ -34,7 +34,11 @@ The course is divided in 10 weekly classes, with the following contents and exer
          * **[Satellite Image Analysis using numpy](https://github.com/samuel-sanches-BR/DataScience-UCSanDiego-edX/blob/exer-PythDS/Satellite%20Image%20Analysis%20using%20numpy.ipynb)**
             [(Image used, large ~8mb)](https://drive.google.com/open?id=1wM1KHskZST1VyISZeoJTOc_IzkkNahcZ)
 
-------------------------------------------------------------------------
-* ## [Python for Data Science]() **(In progress)**
-  * ### [Guide](https://www.edx.org/course/python-for-data-science)
-------------------------------------------------------------------------
+* #### Week 4:
+  * **Pandas**
+     * Slides
+         * **[pandas](https://drive.google.com/open?id=1TG69d8wXpLCef-eknxJOLRDTvfEQtCGw)**
+     * .ipynb
+         * **[Introduction to Pandas](https://github.com/samuel-sanches-BR/DataScience-UCSanDiego-edX/blob/exer-PythDS/Introduction%20to%20Pandas.ipynb)**
+             [(Data set used: MovieLens, large ~190mb)](https://grouplens.org/datasets/movielens/)
+        
