@@ -49,3 +49,12 @@ The course is divided in 10 weekly classes, with the following contents and exer
          * **[Matplotlib](https://github.com/samuel-sanches-BR/DataScience-UCSanDiego-edX/blob/exer-PythDS/05a_Matplotlib_Notebook.ipynb)**
          * **[Exploring Indicator's Across Countries](https://github.com/samuel-sanches-BR/DataScience-UCSanDiego-edX/blob/exer-PythDS/05b_Exploring%20Indicator_s%20Across%20Countries.ipynb)**
          * **[Folium](https://github.com/samuel-sanches-BR/DataScience-UCSanDiego-edX/blob/exer-PythDS/05c_Folium_Notebook.ipynb)**
+
+* #### Week 6:
+  * **Mini Project Week**
+     * Slides
+         * **[Presentation](https://drive.google.com/open?id=1iN3t2B7mlJJG0FNsaNHUxy4dsixqLx88)**
+     * .ipynb
+         * **[Notebook used](https://github.com/samuel-sanches-BR/DataScience-UCSanDiego-edX/blob/exer-PythDS/Mini%20Project%20Week%206.ipynb)**
+             [(Data set used: MovieLens, large ~190mb)](https://grouplens.org/datasets/movielens/)
+        
