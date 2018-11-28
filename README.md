@@ -58,3 +58,29 @@ The course is divided in 10 weekly classes, with the following contents and exer
          * **[Notebook used](https://github.com/samuel-sanches-BR/DataScience-UCSanDiego-edX/blob/exer-PythDS/Mini%20Project%20Week%206.ipynb)**
              [(Data set used: MovieLens, large ~190mb)](https://grouplens.org/datasets/movielens/)
         
+* #### Week 7:
+  * **Introduction to Machine Learning**
+     * Slides
+         * **[Introduction to Machine Learning](https://drive.google.com/open?id=1UgtJ8c5ItL8SKyKpHgRG5a7mFqW9XYvU)**
+         * **[Machine Learning in Python: Classification](https://drive.google.com/open?id=1AvoTVF8Q4XW6pSpky0yhGclXpcWa5JLd)**
+         * **[Machine Learning in Python: Clustering](https://drive.google.com/open?id=1JBEnmbGc2ak2am2evnmW9ObaiNVQDTov)**
+         * **[Machine Learning in Python: Regression Analysis](https://drive.google.com/open?id=1b_E7xXj_Fcx5oGosaYpOjG-nKkGPsAB4)**
+     * .ipynb
+         * **[Weather Data Classification using Decision Trees](https://github.com/samuel-sanches-BR/DataScience-UCSanDiego-edX/blob/exer-PythDS/Weather%20Data%20Classification%20using%20Decision%20Trees.ipynb)**
+             [(Data set used: daily_weather.csv)](https://drive.google.com/open?id=1JRa5TaIhZYu3YP6nkLFHipWCqa6_dyIc)
+         * **[Weather Data Clustering using k-Means](https://github.com/samuel-sanches-BR/DataScience-UCSanDiego-edX/blob/exer-PythDS/Weather%20Data%20Clustering%20using%20k-Means.ipynb)**
+             [(Data set used: minute_weather.csv, large ~123mb)](https://drive.google.com/open?id=11oaQHenReUl4RYIExE9FT3e_vnW8S3mz)
+         * **[European Soccer Regression Analysis using scikit-learn](https://github.com/samuel-sanches-BR/DataScience-UCSanDiego-edX/blob/exer-PythDS/European%20Soccer%20Regression%20Analysis%20using%20scikit-learn.ipynb)**
+             [(Data set used: European Soccer Database, large ~34mb)](https://www.kaggle.com/hugomathien/soccer)
+             
+* #### Week 8:
+  * **Working with Text and Databases**
+     * Slides
+         * **[Working With Databases: Relational Data Model](https://drive.google.com/open?id=1f3hZQxPMj3iBT09XBFnOeJxL3rseL0XI)**
+         * **[Natural Language Processing: nltk](https://drive.google.com/open?id=1WBLVdd6Y84KK3AXxqGL0c-VdD9m4xjC3)**
+         * **[Twitter Data Analysis: Access the Twitter API](https://drive.google.com/open?id=108v7-SCnf3k9Gz5rN0X8AwKoJTgQrou0)**
+     * .ipynb
+         * **[]()**
+         * **[]()**
+         * **[]()**
+             [()]()
