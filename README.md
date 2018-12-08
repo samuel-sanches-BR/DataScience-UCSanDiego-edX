@@ -80,7 +80,25 @@ The course is divided in 10 weekly classes, with the following contents and exer
          * **[Natural Language Processing: nltk](https://drive.google.com/open?id=1WBLVdd6Y84KK3AXxqGL0c-VdD9m4xjC3)**
          * **[Twitter Data Analysis: Access the Twitter API](https://drive.google.com/open?id=108v7-SCnf3k9Gz5rN0X8AwKoJTgQrou0)**
      * .ipynb
-         * **[]()**
-         * **[]()**
-         * **[]()**
-             [()]()
+         * **[Working With Databases](https://github.com/samuel-sanches-BR/DataScience-UCSanDiego-edX/blob/exer-PythDS/Working%20with%20Databases.ipynb)**
+             [(Data set used: Iris, large ~34mb)](https://www.kaggle.com/uciml/iris/)
+         * **[Natural Language Processing with nltk](https://github.com/samuel-sanches-BR/DataScience-UCSanDiego-edX/blob/exer-PythDS/Natural%20Language%20Processing%20of%20Movie%20Reviews%20using%20nltk%20.ipynb)**
+             (Data set used: movie_reviews)
+         * **[Using the Twitter API for Tweet Analysis](https://github.com/samuel-sanches-BR/DataScience-UCSanDiego-edX/blob/exer-PythDS/Using%20the%20Twitter%20API%20for%20Tweet%20Analysis.ipynb)**
+       
+* #### Week 9:
+  * **Final Project Part 1**
+     * [Dataset choosed: Volcanoes on Venus](https://www.kaggle.com/fmena14/volcanoesvenus)
+     * Examples .ipynb
+         * **[Astrophysics Example: Simulate Planck Data](https://github.com/samuel-sanches-BR/DataScience-UCSanDiego-edX/blob/exer-PythDS/Planck%20Satellite%20Data%20Simulation%20using%20pandas.ipynb)**
+             [(Data set used: Planck Public Data Release)](https://irsa.ipac.caltech.edu/data/Planck/release_2/all-sky-maps/)
+         * **[Protein Data Bank Notebooks](https://github.com/samuel-sanches-BR/DataScience-UCSanDiego-edX/blob/exer-PythDS/Dashboard%20Testing.ipynb)**
+         
+* #### Week 10:
+  * **Final Project Part 2**
+     * Slides
+         * **[There is a volcano on that Venus’ surface image?](https://drive.google.com/open?id=1Xhq1_D72ePKt0v9aGwIjiL1GDtkXVdgW)**
+     * .ipynb
+         * **[Predict volcanoes with ML](https://github.com/samuel-sanches-BR/DataScience-UCSanDiego-edX/blob/exer-PythDS/Week10%20-%20Final%20Project.ipynb)**
+             [(Data set used: Volcanoes on Venus from Kaggle, large ~109mb)](https://www.kaggle.com/fmena14/volcanoesvenus)
+         
